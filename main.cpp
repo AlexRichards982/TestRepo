@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main{
+int main(){
     double sum=0;
     int len;
     cin >> len;
@@ -12,5 +12,5 @@ int main{
 
     cout << sum << endl;
     
-return 0;
+    return 0;
 }
